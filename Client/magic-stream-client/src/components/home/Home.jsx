@@ -31,7 +31,7 @@ const Home =({updateMovieReview}) => {
 
     return (
         <>
-        <h2>Magic Stream Heading</h2>
+        <h2>Magic Stream My Awesome Heading </h2>
             {loading ? (
                 <Spinner/>
             ):  (
